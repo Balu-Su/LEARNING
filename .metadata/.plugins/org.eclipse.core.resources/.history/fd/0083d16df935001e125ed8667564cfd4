@@ -1,0 +1,10 @@
+package subbu;
+
+public class balu 
+{
+	if(marks>=80) 
+	{
+		System.out.println("welcome to tech club");
+	}
+
+}
